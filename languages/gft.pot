@@ -1,0 +1,159 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GravityForms To Telegram\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-16 14:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.4; wp-5.4.1"
+
+#: gravityforms-telegram.php:33
+msgid "Plugin Settings"
+msgstr ""
+
+#: gravityforms-telegram.php:33
+msgid "Settings"
+msgstr ""
+
+#: gravityforms-telegram.php:47 gravityforms-telegram.php:58
+#: gravityforms-telegram.php:70 include/GFT_Menu.php:107
+#: include/template/settings.php:2
+msgid "GravityForms Entries To Telegram Chats"
+msgstr ""
+
+#: gravityforms-telegram.php:48
+msgid ""
+"The php version of your site is less than 7.1.0, please upgrade it. You can "
+"contact your hosting manager to upgrade."
+msgstr ""
+
+#: gravityforms-telegram.php:59
+msgid ""
+"The mbstring module is not enabled on your site's server. Contact your "
+"hosting to activate it."
+msgstr ""
+
+#: gravityforms-telegram.php:71
+msgid ""
+"The GravityForms plugin is not installed / activated on the site. First "
+"install / activate the GravityForms plugin"
+msgstr ""
+
+#: include/GFT_Menu.php:26
+msgid "Saved"
+msgstr ""
+
+#: include/GFT_Menu.php:26 include/GFT_Menu.php:73
+#: include/template/settings.php:49 include/template/settings.php:59
+msgid "Save Changes"
+msgstr ""
+
+#: include/GFT_Menu.php:33 include/GFT_Menu.php:80
+msgid "Saving ..."
+msgstr ""
+
+#: include/GFT_Menu.php:65
+msgid "The token is invalid"
+msgstr ""
+
+#: include/GFT_Menu.php:73
+msgid "Done"
+msgstr ""
+
+#: include/GFT_Menu.php:107
+msgid "GF Entries To Telegram Chats"
+msgstr ""
+
+#: include/GFT_Telegram.php:58 include/template/settings.php:22
+msgid "IP"
+msgstr ""
+
+#: include/GFT_Telegram.php:61 include/template/settings.php:26
+msgid "Source Url"
+msgstr ""
+
+#: include/GFT_Telegram.php:66 include/GFT_Telegram.php:68
+#: include/template/settings.php:30
+msgid "Created By"
+msgstr ""
+
+#: include/GFT_Telegram.php:68
+msgid "Visitor"
+msgstr ""
+
+#: include/GFT_Telegram.php:72 include/template/settings.php:34
+msgid "Payment Status"
+msgstr ""
+
+#: include/GFT_Telegram.php:72 include/GFT_Telegram.php:75
+msgid "Unknown"
+msgstr ""
+
+#: include/GFT_Telegram.php:75 include/template/settings.php:38
+msgid "Payment Amount"
+msgstr ""
+
+#: include/template/settings.php:2
+msgid "Bot Token is Empty"
+msgstr ""
+
+#: include/template/settings.php:4
+msgid "Forms"
+msgstr ""
+
+#: include/template/settings.php:9
+msgid "Enable / Disable Form"
+msgstr ""
+
+#: include/template/settings.php:15
+msgid "Enable / Disable"
+msgstr ""
+
+#: include/template/settings.php:44
+msgid ""
+"Chat ID (ex: Chanel ID Like @mychannel). Using , you can separate the Chats"
+msgstr ""
+
+#: include/template/settings.php:54
+msgid "Configuration"
+msgstr ""
+
+#: include/template/settings.php:57
+msgid "Token Bot"
+msgstr ""
+
+#: include/template/settings.php:63
+msgid "Note For Channels: Your bot should be used as a channel admin"
+msgstr ""
+
+#: include/template/settings.php:64
+msgid "How To Get Chat ID For Private Channels? Click Here"
+msgstr ""
+
+#. Name of the plugin
+msgid "GravityForms To Telegram"
+msgstr ""
+
+#. Description of the plugin
+msgid "Send GravityForms Entries To Telegram Chats"
+msgstr ""
+
+#. URI of the plugin
+msgid "#"
+msgstr ""
+
+#. Author of the plugin
+msgid "Salar Sadeghi"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://salars.xyz"
+msgstr ""
